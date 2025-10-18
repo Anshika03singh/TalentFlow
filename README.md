@@ -21,7 +21,7 @@ A modern, full-stack talent management platform built with React, TypeScript, an
 - Long Text
 - Numeric Input
 - File Upload
-
+Note: The mock API (MSW) doesn’t run in production, so job data isn’t visible on the deployed Vercel site. The full functionality works locally with npm run dev
 ### Advanced Features
 
 - **Conditional Logic**: Questions can be shown/hidden based on previous answers
